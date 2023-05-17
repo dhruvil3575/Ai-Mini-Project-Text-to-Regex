@@ -1,7 +1,7 @@
 # Regex Generator
 A web tools to generate regular expressions from set of strings.
 
-![Regex Generator Screenshot](screenshot.jpg)
+![Regex Generator Screenshot](screenshot.png)
 
 ## Web
 https://ibnuhx.com/regex-generator
